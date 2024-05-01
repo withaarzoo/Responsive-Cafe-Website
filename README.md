@@ -13,7 +13,7 @@ The tutorial covers the following topics:
 The tutorial assumes basic knowledge of HTML, CSS, and JavaScript.
 
 ## Source Code
-You can access the source code at (here)[https://rb.gy/16n1qf]
+You can access the source code at [here](https://rb.gy/16n1qf)
 
 ## How to Use
 To use this source code, you can either clone this repository or download the ZIP file.
